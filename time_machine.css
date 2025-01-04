@@ -6,10 +6,13 @@ body {
   background-color: #f0f0f0;
   }
 
-.navbar {
+  .navbar {
     background-color: rgb(23, 23, 23);
     height: 3rem;
-  }
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
    
   .nav-links a {
     color: white;
