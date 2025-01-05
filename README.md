@@ -8,7 +8,7 @@ As part of my web development training, I developed a webpage dedicated to **Tim
 - **Responsive Layout:** Ensured the webpage is responsive and visually appealing across various devices.
 - **CSS Styling:** Utilized advanced CSS techniques to achieve the desired aesthetics and interactivity.
 
-### 🛠️ Technologies Used
+### 🧑‍💻 Technologies Used
 
 - **HTML5**
 - **CSS3**
