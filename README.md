@@ -15,8 +15,8 @@ As part of my web development training, I developed a webpage dedicated to **Tim
 
 ### 🚀 Live Demo
 
-[View Project](https://inna-shchokina.github.io/time-machine/) 
+<a href="https://inna-shchokina.github.io/time-machine/" target="_blank" rel="noopener noreferrer">View Project</a>   
 
 ### 📷 Screenshots
 
-<a href="https://github.com/inna-shchokina/time-machine/blob/master/Screens_Time_machine/Time_machine.jpg?raw=true" target="_blank">View Interface Screenshot</a>  
+<a href="https://github.com/inna-shchokina/time-machine/blob/master/Screens_Time_machine/Time_machine.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot</a>  
